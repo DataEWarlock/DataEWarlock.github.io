@@ -1,4 +1,4 @@
-# 🌐 Welcome to Emigdio PerezSite!
+# 🌐 Welcome to my website!
 
 🚀 ** A showcase of my work, experience, and passions in IT, development, and technology.**
 
@@ -25,5 +25,5 @@ Want to set up a similar site? Fork this repository and customize it for your ow
 3. Push changes and enable GitHub Pages in the repository settings.
 
 ## 📫 Contact
-💼 [LinkedIn](#) | 🐙 [GitHub](#) | ✉️ perez.emigdio40@gmail.com
+💼 [LinkedIn]([#](https://www.linkedin.com/in/emigdio-perez-79719a183/)) | 🐙 [GitHub](#) | ✉️ perez.emigdio40@gmail.com
 
