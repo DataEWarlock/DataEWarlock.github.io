@@ -1,6 +1,6 @@
 # 🌐 Welcome to my website!
 
-🚀 ** A showcase of my work, experience, and passions in IT, development, and technology.**
+🚀 A professional portfolio highlighting my expertise, achievements, and interests in IT, development, and technology.
 
 ## 🔹 About This Website
 This site serves as my digital portfolio, where I share:
