@@ -4,7 +4,7 @@
 
 ## 🔹 About This Website
 This site serves as my digital portfolio, where I share:
-- 📜 **My Resume & Experience** – Insights into my professional journey.
+- 📜 **My Resume & Experience** – Insights into my professional journey.[View My Resume](https://github.com/DataEWarlock/Emigdio_Resume/blob/main/Emigdio%20Resume%202024.pdf)
 - 🛠️ **Projects & Code** – A collection of things I’ve built or contributed to.
 - 📖 **Blog & Thoughts** – Articles and thoughts on tech, development, and problem-solving.
 - 🎮 **Personal Interests** – A little about my passion for gaming, anime, and scripting.
